@@ -3,6 +3,7 @@
 #include <queue>
 #include <algorithm>
 #include <climits>
+#include <functional>
 using namespace std;
 
 int main() {
